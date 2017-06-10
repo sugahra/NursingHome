@@ -20,5 +20,4 @@ shizuoka.ox: Prediction analysis
 prediction.ox: To show prediction results
 
 /data
-
 datasets
